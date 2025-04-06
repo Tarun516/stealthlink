@@ -2,7 +2,7 @@
 
 ## 📖 Introduction
 
-Ghostgram is an anonyms messaging platform that allow uses to receive or send message without revealing their identity.
+StealthLink is an anonyms messaging platform that allow uses to receive or send message without revealing their identity.
 
 ## 🛠️ Technologies Used
 
@@ -23,8 +23,8 @@ Ghostgram is an anonyms messaging platform that allow uses to receive or send me
 To clone the repository locally, use the following commands:
 
 ```bash
-git clone https://github.com/your-username/ghostgram.git 
-cd ghostgram
+git clone https://github.com/your-username/stealthlink.git 
+cd stealthlink
 ```
 
 ### Installation
