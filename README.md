@@ -46,14 +46,3 @@ SENDER_PASSWORD=
 ```bash
 npm run dev
 ```
-
-## 🤝 Contribution Guide
-I hearty welcome contributions! Please follow these steps:
-- Fork the repository.
-- Create a new branch `(git checkout -b feature-branch-name)`.
-- Make your changes and commit them `(git commit -m "Add feature description")`.
-- Push your changes `(git push origin feature-branch-name)`.
-Create a Pull Request.
-
-***
-Thank you for checking out this project! Feel free to open an issue if you have any questions or suggestions.
