@@ -13,7 +13,7 @@ export async function sendVerificationEmail(
     await transporter.sendMail({
       from: process.env.SENDER_EMAIL,
       to: email,
-      subject: "StealLink, Verification Code",
+      subject: "StealthLink, Verification Code",
       text: "Your service is successfully booked, Happy!",
       html: htmlContent,
     });

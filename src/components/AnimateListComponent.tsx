@@ -13,7 +13,7 @@ interface Item {
 let notifications = [
   {
     name: "What skill are you most excited to master in the next year?",
-    description: "StealLink",
+    description: "StealthLink",
     time: "15m ago",
 
     icon: "💸",
@@ -21,28 +21,28 @@ let notifications = [
   },
   {
     name: "What kind of positive impact do you hope to make on the world in the future?",
-    description: "StealLink",
+    description: "StealthLink",
     time: "10m ago",
     icon: "👤",
     color: "#FFB800",
   },
   {
     name: "What's a skill you're secretly proud of mastering?",
-    description: "StealLink",
+    description: "StealthLink",
     time: "5m ago",
     icon: "💬",
     color: "#FF3D71",
   },
   {
     name: "If you could instantly learn any new language, which would you choose and why?",
-    description: "StealLink",
+    description: "StealthLink",
     time: "2m ago",
     icon: "🗞️",
     color: "#1E86FF",
   },
   {
     name: "What's one small thing you do daily that brings you consistent joy?",
-    description: "StealLink",
+    description: "StealthLink",
     time: "36m ago",
     icon: "❔",
     color: "#FFFFFF",

@@ -23,7 +23,7 @@ export default function Home() {
             Anonymous Messages
           </h1>
           <p className={`mt-5 text-lg max-sm:text-xs text-gray-500 dark:text-gray-300 text-center tracking-normal leading-6 ${inter}`}>
-            StealLink - Where your identity remains a secret.
+            StealthLink - Where your identity remains a secret.
           </p>
 
           <Link href={`${isUserLoggedIn ? '/dashboard' : '/sign-in'}`} className="mt-8">
