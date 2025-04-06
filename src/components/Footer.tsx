@@ -31,7 +31,7 @@ export default function Footer() {
             target="_blank"
             className="underline text-orange-500 dark:text-orange-300"
           >
-            Fardeen
+            Tarun
           </Link>
         </div>
         <div className="flex gap-2">
